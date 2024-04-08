@@ -40,22 +40,32 @@
 <br/>
 <div>
   <h2><img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/39e8da84-4327-4692-8c04-c4a8f2107ee9"> Stack <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/39e8da84-4327-4692-8c04-c4a8f2107ee9"></h2>
+<p>😈 Programming 
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+</p>
 <br/>
-<img src="https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<p>☠️ Database <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
+</p>
 <br/>
+<p>🤡 MCU 
+<img src="https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+</p>
+<br/> 
+<p>🫀 OS <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white"/>
+</p>
+<br/> 
+  
 <h2><img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/f073f21b-b4ad-428d-b996-747039107b0f"> Studying <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/f073f21b-b4ad-428d-b996-747039107b0f"></h2>
 <img src="https://img.shields.io/badge/-Arm Keil-394049?style=flat&logo=armkeil&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
