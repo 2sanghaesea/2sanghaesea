@@ -67,6 +67,7 @@
 <br/> 
   
 <h2><img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/f073f21b-b4ad-428d-b996-747039107b0f"> Studying <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/f073f21b-b4ad-428d-b996-747039107b0f"></h2>
+<img src="https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=micropython&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Arm Keil-394049?style=flat&logo=armkeil&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/><br/>
