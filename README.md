@@ -30,6 +30,7 @@
 <a href="https://github.com/2sanghaesea">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2sanghaesea&count_bg=%2379C83D&title_bg=%23009000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
 </a>
+  <a href="https://nutritious-park-5e9.notion.site/71a8d957befc444e99750010178a5ee0?pvs=74" target="_blank"> <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/97bf1996-3248-4795-9fde-c3175de27935" alt="Your Image">
 <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/97bf1996-3248-4795-9fde-c3175de27935" alt="Your Image">
 <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/97bf1996-3248-4795-9fde-c3175de27935" alt="Your Image">
