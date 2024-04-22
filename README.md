@@ -92,12 +92,5 @@
   <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/0d478e0e-7345-40d2-8958-c5c4133d58bd">
   <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/0d478e0e-7345-40d2-8958-c5c4133d58bd">
   <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/0d478e0e-7345-40d2-8958-c5c4133d58bd">
-  <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/0d478e0e-7345-40d2-8958-c5c4133d58bd">
-  <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/0d478e0e-7345-40d2-8958-c5c4133d58bd">
-  <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/0d478e0e-7345-40d2-8958-c5c4133d58bd">
-  <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/0d478e0e-7345-40d2-8958-c5c4133d58bd">
-  <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/0d478e0e-7345-40d2-8958-c5c4133d58bd">
-  
-
 </div>
 
