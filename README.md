@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-<hr><a herf="https://github.com/2sanghaesea/2sanghaesea/tree/cute">
+<hr><a href="https://github.com/2sanghaesea/2sanghaesea/tree/cute">
   <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/332fe31f-72ff-4998-b628-668597bb041e"></a><hr><br/>
 <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/54855c8b-f760-49bc-aa01-f6dadc72082f">
 <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/e4c8c06a-e67e-46e6-a424-2a37999e442b">
