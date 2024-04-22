@@ -64,14 +64,25 @@
 <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/FreeRTOS-green">
 </p>
 <br/> 
   
 <h2><img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/f073f21b-b4ad-428d-b996-747039107b0f"> Studying <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/f073f21b-b4ad-428d-b996-747039107b0f"></h2>
+<img src="https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=micropython&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Arm Keil-394049?style=flat&logo=armkeil&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+<br/>
 </div>
+<br/>
+<br/>
+
+<h3><hr><img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/332fe31f-72ff-4998-b628-668597bb041e"></h3><hr><br/>
+<img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/54855c8b-f760-49bc-aa01-f6dadc72082f">
+<img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/e4c8c06a-e67e-46e6-a424-2a37999e442b">
+<img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/d7e966c2-05ca-4ff1-a2a6-b27634adefa2">
 </div>
+
 
