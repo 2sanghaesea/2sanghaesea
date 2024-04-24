@@ -79,9 +79,9 @@
 
 <hr><a href="https://github.com/2sanghaesea/2sanghaesea/tree/cute">
   <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/332fe31f-72ff-4998-b628-668597bb041e"></a><hr><br/>
-<img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/54855c8b-f760-49bc-aa01-f6dadc72082f">
-<img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/e4c8c06a-e67e-46e6-a424-2a37999e442b">
-<img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/d7e966c2-05ca-4ff1-a2a6-b27634adefa2">
+<a href="https://pokemonkorea.co.kr/pokedex/view/1"><img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/54855c8b-f760-49bc-aa01-f6dadc72082f"></a>
+<a href="https://pokemonkorea.co.kr/pokedex/view/2"><img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/e4c8c06a-e67e-46e6-a424-2a37999e442b"></a>
+<a href="https://pokemonkorea.co.kr/pokedex/view/3"><img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/d7e966c2-05ca-4ff1-a2a6-b27634adefa2"></a>
 </div>
 
 
