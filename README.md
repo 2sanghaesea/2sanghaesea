@@ -78,8 +78,21 @@
  <!-- <h2><img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/39e8da84-4327-4692-8c04-c4a8f2107ee9"> Stack <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/39e8da84-4327-4692-8c04-c4a8f2107ee9"></h2> -->
 <!--Programming -->
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+ <!--
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white"/> -->
 <!--<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>-->
   <!--
 <p>🤡 MCU 
@@ -93,6 +106,11 @@
 
 <!-- <h2><img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/f073f21b-b4ad-428d-b996-747039107b0f"> Studying <img src="https://github.com/2sanghaesea/2sanghaesea/assets/116778214/f073f21b-b4ad-428d-b996-747039107b0f"></h2> -->
 <a href="https://pokemonkorea.co.kr/pokedex"> <img src="https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=micropython&logoColor=white"/>
